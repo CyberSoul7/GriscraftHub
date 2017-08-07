@@ -1,0 +1,23 @@
+name: GriscraftHub
+version: 1.0
+description: Griscraft Custom Plugin!
+main: me.cybersoul.hub.HubPlugin
+commands:
+  setspawn:
+    description: Set the world spawn!
+    usage: /<command>
+  spawn:
+    description: Teleport to spawn!
+    usage: /<command>
+  announce:
+    description: Send an announcment to everyone!
+    usage: /<command>
+  warn:
+    description: Send a warning to everyone!
+    usage: /<command>
+  info:
+    description: Send an informational message to everyone!
+    usage: /<command>
+  important:
+    description: Send an important message to everyone!
+    usage: /<command>
