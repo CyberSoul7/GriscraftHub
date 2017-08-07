@@ -1,4 +1,4 @@
-package me.cybersoul.hub;
+package net.griscraft.hub;
 
 import org.bukkit.ChatColor;
 import org.bukkit.GameMode;

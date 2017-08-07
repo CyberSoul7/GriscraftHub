@@ -1,7 +1,7 @@
 name: GriscraftHub
 version: 1.0
 description: Griscraft Custom Plugin!
-main: me.cybersoul.hub.HubPlugin
+main: net.griscraft.hub.HubPlugin
 commands:
   setspawn:
     description: Set the world spawn!

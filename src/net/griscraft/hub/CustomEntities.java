@@ -1,4 +1,4 @@
-package me.cybersoul.hub;
+package net.griscraft.hub;
 
 import org.bukkit.Location;
 import org.bukkit.craftbukkit.v1_12_R1.CraftWorld;

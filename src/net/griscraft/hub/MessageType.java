@@ -1,4 +1,4 @@
-package me.cybersoul.hub;
+package net.griscraft.hub;
 
 public enum MessageType {
 	INFO,
